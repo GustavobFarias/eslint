@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "jsx": "react-jsx", // ou "react" se usar React 16 ou 17
+        "lib": ["dom", "esnext"],
+        "module": "esnext",
+        "target": "es5",
+        "strict": true
+    }
+}
